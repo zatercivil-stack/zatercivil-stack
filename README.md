@@ -1,16 +1,80 @@
-## Hi there 👋
+# Привет! Я разрабатываю AI-продукты и автоматизации
 
-<!--
-**zatercivil-stack/zatercivil-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой основной фокус — прикладная разработка AI-решений, интеграция LLM и автоматизация пользовательских и бизнес-процессов.
 
-Here are some ideas to get you started:
+Самостоятельно разрабатываю цифровые продукты: от анализа задачи и проектирования архитектуры до реализации, интеграций с внешними API, тестирования и развёртывания.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Чем занимаюсь
+
+* **AI Integration:** интеграция LLM и AI-сервисов в приложения, работа с API различных провайдеров.
+* **Python Backend:** асинхронные приложения, Telegram-боты, FastAPI, базы данных и бизнес-логика.
+* **AI Automation:** автоматизация процессов, интеграции сервисов через REST API, webhooks и n8n.
+* **Product Development:** разработка пользовательских сервисов, систем монетизации, платежей, подписок, аналитики и административных инструментов.
+
+## Избранные проекты
+
+### 1. OpsPilot AI — платформа AI-автоматизации
+
+[**GitHub → opspilot-ai-platform**](https://github.com/zatercivil-stack/opspilot-ai-platform)
+
+Референсная платформа для автоматизации операционных бизнес-процессов на примере вымышленной торговой компании.
+
+Основные модули:
+
+* Inbox AI — классификация и обработка обращений.
+* Document AI — извлечение данных из документов, валидация и сверка.
+* AI Analytics — аналитика с использованием LLM.
+* Human-in-the-loop — согласование решений с участием человека.
+* Workflow Monitor — мониторинг и управление автоматизациями через n8n.
+
+**Стек:** Python, FastAPI, TypeScript, Next.js, PostgreSQL, n8n, Docker.
+
+Проект демонстрирует подходы к проектированию AI-систем и интеграции автоматизаций в бизнес-процессы. Используются синтетические данные.
+
+### 2. Neyra — AI Telegram-приложение
+
+[**GitHub → aichat-bot**](https://github.com/zatercivil-stack/aichat-bot)
+
+Самостоятельно разработанный AI-продукт для генерации и редактирования изображений через Telegram.
+
+Основные возможности:
+
+* Интеграция нескольких AI-провайдеров.
+* Генерация и редактирование изображений.
+* Система кредитов и управление балансом.
+* Подписки и автопродление.
+* Интеграции с платёжными системами.
+* Реферальная программа.
+* Собственная административная панель и аналитика.
+
+**Стек:** Python, aiogram 3, FastAPI, SQLAlchemy, PostgreSQL, Redis, Docker.
+
+Проект демонстрирует полный цикл разработки AI-продукта: от пользовательских сценариев и внешних интеграций до backend-инфраструктуры и монетизации.
+
+## Технологии
+
+**Backend:** Python, FastAPI, aiogram, SQLAlchemy, PostgreSQL, Redis.
+
+**AI:** LLM, OpenRouter, OpenAI API, fal.ai, интеграция AI-провайдеров.
+
+**Automation:** n8n, REST API, Webhooks.
+
+**Frontend:** TypeScript, Next.js.
+
+**Infrastructure:** Docker, Linux, Git, GitHub Actions.
+
+## Открыт к предложениям
+
+Рассматриваю возможности сотрудничества с российскими компаниями по направлениям:
+
+* Специалист по внедрению ИИ и автоматизации.
+* AI Automation Specialist.
+* AI Integration Engineer.
+* Python Backend Developer с фокусом на AI-интеграциях.
+
+Особенно интересны задачи, в которых необходимо не просто подключить нейросеть, а встроить AI в полноценный рабочий процесс: интеграции, обработка данных, backend, автоматизация и контроль результатов.
+
+## Контакты
+
+* **Telegram:** [@grelok](https://t.me/grelok)
+* **Резюме:** [cv](https://cv.myvelum.com/)
